@@ -1,0 +1,9 @@
+.main, .main * {
+    text-decoration: none;
+}
+
+html {
+    background-color: black;
+    color: white;
+    font-family: arial;
+}
